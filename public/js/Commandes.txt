@@ -1,0 +1,1 @@
+{ "commande":[{"article":[{"item":{"id":1,"stock":2,"price":2343,"name":"produit","stockmax":12,"user":1}}],"date":4,"user":1,"total":4686},{"article":[{"item":{"id":1,"stock":12,"price":2343,"name":"produit","stockmax":12}}],"date":4,"total":28116}]}
